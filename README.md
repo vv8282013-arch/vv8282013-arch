@@ -1,4 +1,11 @@
 ## Hi there 👋
+### 📊 My GitHub Analytics
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=vv8282013-arch&show_icons=true&theme=radial&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vv8282013-arch&layout=compact&theme=radial&hide_border=true)
+
+
 I am an Integrated M.Tech student specializing in **Artificial Intelligence and Machine Learning**. I love turning complex data into intelligent solutions and building projects that bridge theory and real-world application.
 ### ⚡ Beyond the Code
 ### 🛠️ Tech Stack & Toolsess enthusiast.
