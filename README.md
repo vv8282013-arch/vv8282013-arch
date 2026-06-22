@@ -1,16 +1,12 @@
 ## Hi there 👋
+I am an Integrated M.Tech student specializing in **Artificial Intelligence and Machine Learning**. I love turning complex data into intelligent solutions and building projects that bridge theory and real-world application.
+### ⚡ Beyond the Code
+### 🛠️ Tech Stack & Toolsess enthusiast.
+- **Languages:** Python, C++, SQLical arts and cultural dance forms.
+- **AI/ML:** Scikit-Learn, TensorFlow/PyTorch (or your preferred frameworks), Data Structures
+- **Developer Tools:** Git, GitHub, VS Code
 
-<!--
-**vv8282013-arch/vv8282013-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects & Focus
+- 🧠 Developing projects around Generative AI and foundational ML models.
+- **Email:** [vv8282013@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/vishal-verma-bb8814252/?skipRedirect=true]
